@@ -1,0 +1,20 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+*.log
+
+# 🧪 Virtual environments
+venv/
+env/
+.venv/
+
+# 📂 Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# 📁 OS generated files
+.DS_Store
+Thumbs.db
+
+# ⚙️ VS Code settings 
+.vscode/
